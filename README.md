@@ -118,16 +118,6 @@ Before using the API, you need to set the variables in Postman depending on your
 
 Check [Natours API Documentation](https://documenter.getpostman.com/view/8893042/SW7c37V6) for more info.
 
-<b> API Features: </b>
-
-Tours List 👉🏻 https://lgope-natours.onrender.com/api/v1/tours
-
-Tours State 👉🏻 https://lgope-natours.onrender.com/api/v1/tours/tour-stats
-
-Get Top 5 Cheap Tours 👉🏻 https://lgope-natours.onrender.com/api/v1/tours/top-5-cheap
-
-Get Tours Within Radius 👉🏻 https://lgope-natours.onrender.com/api/v1/tours/tours-within/200/center/34.098453,-118.096327/unit/mi
-
 ## Deployment 🌍
 
 The website is deployed with git into Heroku. Below are the steps taken:
