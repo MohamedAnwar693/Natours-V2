@@ -80,8 +80,6 @@
 
 #### Admin Profile :
 
-![rsz_adminprofile](https://user-images.githubusercontent.com/58518192/72607648-4d463a80-394b-11ea-972f-a73160cfaa5b.png)
-
 ## How To Use 🤔
 
 ### Book a tour
