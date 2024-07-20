@@ -210,9 +210,6 @@ If you wish to play around with the code base in your local environment, do the 
 * Your app should be running just fine.
 ```
 
-#### Demo-`.env` file :
-
-![demo-env-file](https://github.com/lgope/Natours/assets/58518192/cf5b833f-2a48-48a1-aeb3-5ffea8967e33)
 
 ## Installation 🛠️
 
@@ -237,27 +234,8 @@ eslint-plugin-import eslint-plugin-jsx-a11y  eslint-plugin-react --save-dev
 
 Pull requests are welcome but please open an issue and discuss what you will do before 😊
 
-## Known Bugs 🚨
-
-Feel free to email me at lakshman.gope2@gmail.com if you run into any issues or have questions, ideas or concerns.
-Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
-
-## Future Updates 🪴
-
-- Enable PWA
-- Improve overall UX/UI and fix bugs
-- Featured Tours
-- Recently Viewed Tours
-- And More! There's always room for improvement!
-
 ## License 📄
 
 This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Deployed Version 🚀
 
-Live demo (Feel free to visit) 👉🏻 : https://lgope-natours.onrender.com/
-
-## Acknowledgement 🙏🏻
-
-- This project is part of the online course I've taken at Udemy. Thanks to Jonas Schmedtmann for creating this awesome course! Link to the course: [Node.js, Express, MongoDB & More: The Complete Bootcamp 2019](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
