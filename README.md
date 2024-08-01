@@ -113,7 +113,6 @@ Before using the API, you need to set the variables in Postman depending on your
 - {{password}} with your user password as value.
 ```
 
-Check [Natours API Documentation](https://documenter.getpostman.com/view/8893042/SW7c37V6) for more info.
 
 ## Deployment 🌍
 
