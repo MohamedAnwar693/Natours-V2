@@ -10,11 +10,6 @@
 
  <p align="center">
   <a href="#api-usage">API Usage</a> •
-  <a href="#deployment">Deployment</a> •
-  <a href="#build-with">Build With</a> •
-  <a href="#installation">Installation</a> • 
-  <a href="#future-updates">Future Updates</a> • 
-  <a href="#acknowledgement">Acknowledgement</a>
 </p>
 
 ## Key Features 📝
